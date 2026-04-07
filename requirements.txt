@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+streamlit
+shap
+FastAPI
+uvicorn
+pytest
+requests
+fastapi

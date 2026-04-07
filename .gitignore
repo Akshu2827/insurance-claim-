@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Large Models / Data 
+*.pkl
+
+# Optional (If you want to hide original react script files since they are in riskguard-ui now)
+App.jsx
+App.css
+
+# OS generated files
+.DS_Store
+Thumbs.db
