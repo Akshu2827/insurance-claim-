@@ -24,6 +24,27 @@ You are a **Data Scientist** on the Risk Analytics Team. Your mission is to:
 3. Create a customer risk scoring system
 4. Recommend underwriting policy improvements
 
+**Important questions to Answer**
+
+1. Which customers have modifiable risk factors we can intervene on?
+*High-risk customers with ACTIONABLE risk drivers:*
+✓ Young driver + no defensive driving course → Offer course discount
+✓ Home in flood zone + no mitigation → Recommend flood barriers
+✓ Smoker + high BMI → Connect to wellness program
+✓ Old vehicle + no safety features → Incentivize upgrade
+
+2. What is the optimal timing and channel to engage at-risk customers?
+*Temporal patterns that predict claim likelihood:*
+• 3 months after policy renewal → Higher lapse risk → Claims increase
+• Seasonal patterns (winter = auto claims spike)
+• Life events (new address, new vehicle) = risk transition points
+
+3. Which prevention interventions deliver the highest ROI for each customer segment?
+*Cost-benefit analysis of interventions by segment:*
+• Segment A (young drivers): Telematics discount → $50 cost, $300 claim savings
+• Segment B (homeowners): Inspection program → $75 cost, $450 claim savings  
+• Segment C (seniors): Wellness program → $100 cost, $200 claim savings
+
 **Timeline**: 8 weeks  
 **Stakeholders**: Chief Risk Officer, Underwriting Team, Actuarial Department, Claims Department
 
